@@ -25,7 +25,6 @@ Password: changeme
 
 Site oficial: https://nginxproxymanager.com/setup/#running-on-raspberry-pi-arm-devices
 
-| Container | Descrição | Link |
-|:---------:|:---------:|:----:|
-
-| code-server | Vscode server web |[code-server.yml](./Docker/code-server.yml) |
+| Container   | Descrição         | Link                                        |
+|:----------- |    :---------:    |:----                                        |
+| code-server | Vscode server web |[ code-server.yml](./Docker/code-server.yml) |
