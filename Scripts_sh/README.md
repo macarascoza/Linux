@@ -12,14 +12,14 @@ link Documentação:
 sudo -i
 
 #Clonando o Projeto do Github
-git clone https://github.com/macarascoza/Linux/blob/main/Scripts_sh
-cd Scripts_sh
+git clone https://github.com/macarascoza/Linux
 
 #Atualizando o repositório local
-cd Scripts_sh/
+cd Linux/Scripts_sh/
 git pull
 
 #Executando o Script de instalação do Docker e Portainer
+cd Linux/Scripts_sh/
 bash apt-get-upate.sh
 
 #Verificando os Logs de instalação do Docker e Portainer
