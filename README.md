@@ -2,7 +2,7 @@
 Title: Scripts Linux
 Description: Ambiente de Scripts Linux bash.
 Author: Carascoza
-Date: 14/12/2023
+Date: 15/12/2023
 ---
 
 # Tutorial: Repositorio de Scripts Linux.
@@ -14,22 +14,29 @@ Date: 14/12/2023
 
 # Clonar repositorio e executar scripts de update
 
+# Alterando para o usuário Root
 ```powershell
-#Alterando para o usuário Root
 sudo -i
-
-#Clonando o Projeto do Github
+```
+# Clonando o Projeto do Github
+```powershell
 git clone https://github.com/macarascoza/Linux
+```
 
-#Atualizando o repositório local
+# Atualizando o repositório local
+```powershell
 cd Linux/Scripts_sh/
 git pull
+```
 
-#Executando o Script de instalação do Docker e Portainer
+# Executando o Script de instalação do Docker e Portainer
+```powershell
 cd Linux/Scripts_sh/
 bash apt-get-upate.sh
+```
 
-#Verificando os Logs de instalação do Docker e Portainer
+# Verificando os Logs de instalação do Docker e Portainer
+```powershell
 sudo tail -f /var/log/apt-get-upate.sh
 ```
 
@@ -38,21 +45,28 @@ sudo tail -f /var/log/apt-get-upate.sh
 
 # Clonar repositorio e executar scripts de update
 
+# Alterando para o usuário Root
 ```powershell
-#Alterando para o usuário Root
 sudo -i
-
-#Clonando o Projeto do Github
+```
+# Clonando o Projeto do Github
+```powershell
 git clone https://github.com/macarascoza/Linux
+```
 
-#Atualizando o repositório local
+# Atualizando o repositório local
+```powershell
 cd Linux/Scripts_sh/
 git pull
+```
 
-#Executando o Script de instalação do Docker e Portainer
+# Executando o Script de instalação do Docker e Portainer
+```powershell
 cd Linux/Scripts_sh/
 bash docker-install.sh
+```
 
-#Verificando os Logs de instalação do Docker e Portainer
+# Verificando os Logs de instalação do Docker e Portainer
+```powershell
 sudo tail -f /var/log/docker-install.sh
 ```
