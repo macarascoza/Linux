@@ -28,4 +28,4 @@ Site oficial: https://nginxproxymanager.com/setup/#running-on-raspberry-pi-arm-d
 | Container | Descrição | Link |
 |:---------:|:---------:|:----:|
 
-| code-server | Vscode server web | [![code-server.yml](./Docker/code-server.yml)]
+| code-server | Vscode server web |[code-server.yml](./Docker/code-server.yml) |
