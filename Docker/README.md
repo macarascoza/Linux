@@ -13,3 +13,13 @@ Date: 15/12/2023
 [mariadb](./Docker/mariadb.md).
 
 [uptime-kuma-install](./Docker/uptime-kuma-install.md).
+
+# nginx proxy manager
+
+>[!NOTE]
+> Apos criar o container nginx proxy manager logar com o email cadastrado e senha abaixo.
+
+Email:    admin@example.com
+Password: changeme
+
+Site oficial: https://nginxproxymanager.com/setup/#running-on-raspberry-pi-arm-devices
