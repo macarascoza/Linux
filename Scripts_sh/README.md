@@ -5,7 +5,28 @@ link Documentação:
 
 [apt-get-update](./scripts/apt-get-upate.sh).
 
-# All Apps remover no windows 11
+# Clonar repositorio e executar scripts de update
+
+```powershell
+#Alterando para o usuário Root
+sudo -i
+
+#Clonando o Projeto do Github
+git clone https://github.com/macarascoza/Linux/blob/main/Scripts_sh
+cd Scripts_sh
+
+#Atualizando o repositório local
+cd Scripts_sh/
+git pull
+
+#Executando o Script de instalação do Docker e Portainer
+bash apt-get-upate.sh
+
+#Verificando os Logs de instalação do Docker e Portainer
+sudo tail -f /var/log/apt-get-upate.sh
+```
+
+# Comandos Update linux
 
 ```powershell
 #é usado para baixar informações de pacotes de todas as fontes configuradas.
