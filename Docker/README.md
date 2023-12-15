@@ -21,7 +21,7 @@ Date: 15/12/2023
 | code-server         | Vscode server web        |[ code-server.yml](./Docker/code-server.yml)                 |
 | dashy               | Dasboard                 |[ dashy.yml](./Docker/dashy.yml)                             |
 | homarr              | Dashboard                |[ homarr.yml](./Docker/homarr.yml)                           |
-| dozzle              | Monitorar container      | |[ dozzle.yml](./Docker/dozzle.yml)                         |
+| dozzle              | Monitorar container      |[ dozzle.yml](./Docker/dozzle.yml)                           |
 | glances             | Monitorar linux          |[ glances.yml](./Docker/glances.yml)                         |
 | uptime-kuma         | Monitorar services\URLs  |[ uptime-kuma.yml](./Docker/uptime-kuma.yml)                 |
 | pialert             | DNS Server               |[ pialert.yml](./Docker/pialert.yml)                         |
