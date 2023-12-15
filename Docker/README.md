@@ -24,3 +24,8 @@ Email:    admin@example.com
 Password: changeme
 
 Site oficial: https://nginxproxymanager.com/setup/#running-on-raspberry-pi-arm-devices
+
+| Container | Descrição | Link | (per-arch) |
+|:-:|:-:|:-:|:-:|
+
+| [![code-server](Vscode server web)](./Docker/code-server.yml) | 
