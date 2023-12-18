@@ -16,21 +16,21 @@ Date: 15/12/2023
 
 # Tabela de Docker composer
 
-| Container           | Descrição                | Link                                                        |
-|:-----------         |    :---------:           |:----                                                        |
-| code-server         | Vscode server web        |[ code-server.yml](./Docker/code-server.yml)                 |
-| dashy               | Dasboard                 |[ dashy.yml](./Docker/dashy.yml)                             |
-| homarr              | Dashboard                |[ homarr.yml](./Docker/homarr.yml)                           |
-| dozzle              | Monitorar container      |[ dozzle.yml](./Docker/dozzle.yml)                           |
-| glances             | Monitorar linux          |[ glances.yml](./Docker/glances.yml)                         |
-| uptime-kuma         | Monitorar services\URLs  |[ uptime-kuma.yml](./Docker/uptime-kuma.yml)                 |
-| pialert             | DNS Server               |[ pialert.yml](./Docker/pialert.yml)                         |
-| grafana             | Graficos                 |[ grafana.yml](./Docker/grafana.yml)                         |
-| nginx-proxy-manager | Proxy Manager            |[ nginx-proxy-manager.yml](./Docker/nginx-proxy-manager.yml) |
-| radarr              | Servico legendas         |[ radarr.yml](./Docker/radarr.yml)                           |
-| unms                | Gerenciado Ubiquiti UNMS |[ unms.yml](./Docker/unms.yml)                               |
-| watchtower          | Atualizar containers     |[ watchtower.yml](./Docker/watchtower.yml)                   |
-| wordpress           | Site pessoal             |[ wordpress.yml](./Docker/wordpress.yml)                     |
+| Container           | Descrição                | Link                                                                 |
+|:-----------         |    :---------:           |:----                                                                 |
+| code-server         | Vscode server web        |[ code-server.yml](./Docker/composer/code-server.yml)                 |
+| dashy               | Dasboard                 |[ dashy.yml](./Docker/composer/dashy.yml)                             |
+| homarr              | Dashboard                |[ homarr.yml](./Docker/composer/homarr.yml)                           |
+| dozzle              | Monitorar container      |[ dozzle.yml](./Docker/composer/dozzle.yml)                           |
+| glances             | Monitorar linux          |[ glances.yml](./Docker/composer/glances.yml)                         |
+| uptime-kuma         | Monitorar services\URLs  |[ uptime-kuma.yml](./Docker/composer/uptime-kuma.yml)                 |
+| pialert             | DNS Server               |[ pialert.yml](./Docker/composer/pialert.yml)                         |
+| grafana             | Graficos                 |[ grafana.yml](./Docker/composer/grafana.yml)                         |
+| nginx-proxy-manager | Proxy Manager            |[ nginx-proxy-manager.yml](./Docker/composer/nginx-proxy-manager.yml) |
+| radarr              | Servico legendas         |[ radarr.yml](./Docker/composer/radarr.yml)                           |
+| unms                | Gerenciado Ubiquiti UNMS |[ unms.yml](./Docker/composer/unms.yml)                               |
+| watchtower          | Atualizar containers     |[ watchtower.yml](./Docker/composer/watchtower.yml)                   |
+| wordpress           | Site pessoal             |[ wordpress.yml](./Docker/composer/wordpress.yml)                     |
 
 # nginx proxy manager
 
