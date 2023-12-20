@@ -14,7 +14,7 @@ Date: 15/12/2023
 
 [uptime-kuma-install](./Docker/uptime-kuma-install.md).
 
-# Tabela de Docker composer
+## Tabela de Docker composer
 
 | Container           | Descrição                | Link                                                          |
 |:-----------         |    :---------:           |:----                                                          |
@@ -32,7 +32,7 @@ Date: 15/12/2023
 | watchtower          | Atualizar containers     |[ watchtower.yml](./composer/watchtower.yml)                   |
 | wordpress           | Site pessoal             |[ wordpress.yml](./composer/wordpress.yml)                     |
 
-# nginx proxy manager
+## nginx proxy manager
 
 >[!NOTE]
 > Apos criar o container nginx proxy manager logar com o email cadastrado e senha abaixo.
