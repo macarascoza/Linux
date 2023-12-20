@@ -7,10 +7,8 @@ Date: 15/12/2023
 
 <div> 
   <a href="https://img.shields.io/github/downloads/macarascoza/Docker/composer/total.svg" target="_blank"><img src="https://img.shields.io/github/downloads/macarascoza/Docker/composer/total.svg" target="_blank"></a> 
-  <a href="https://badge-size.herokuapp.com/macarascoza/Docker/composer" target="_blank"><img src="https://badge-size.herokuapp.com/macarascoza/Docker/composer" target="_blank"></a> 
+  <a href="https://badge-size.herokuapp.com/macarascoza/Docker/composer/code-server.yml" target="_blank"><img src="https://badge-size.herokuapp.com/macarascoza/Docker/composer/code-server.yml" target="_blank"></a> 
 </div>
-
-
 
 # Tutorial: Ambiente de Docker.
 
