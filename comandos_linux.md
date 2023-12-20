@@ -1,6 +1,6 @@
 # Comandos Linux
 
-### #lterar senha root
+### Alterar senha root
 ```powershell
 sudo passwd root
 ```
