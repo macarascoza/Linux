@@ -16,11 +16,11 @@ vim
 Modo                 | Tecla                           |Rodapé                           |Descrição 
 ---------------------|---------------------------------|------------------------         |---------------------------
 de Inserção          |i ou Insert                      |-- INSERÇÃO --                   |Inserção de texto
-de Comandos          |"<Esc>"                          |                                 |Comandos de manipulação de texto
-de Linha de comando  |"<Esc> shift : (dois pontos)"    |:                                |Comandos de manipulação arquivo 
-de Visual            |"<Esc> v"                        |-- VISUAL --                     |Seleção visual de texto
-de Busca             |"<Esc> /"                        |/                                |Busca de padrões no texto
-de Reposição         |"<Esc> shift R ou Insert/Insert" |-- SUBSTITUIÇÃO --               |Inserção sobrescrevendo
+de Comandos          |Esc                              |                                 |Comandos de manipulação de texto
+de Linha de comando  |Esc shift : (dois pontos)        |:                                |Comandos de manipulação arquivo 
+de Visual            |Esc                              |-- VISUAL --                     |Seleção visual de texto
+de Busca             |Esc /                            |/                                |Busca de padrões no texto
+de Reposição         |Esc shift R ou Insert/Insert     |-- SUBSTITUIÇÃO --               |Inserção sobrescrevendo
 
 ```powershell
 ## Ajuda do editor de Texto VIM (q = quit)
