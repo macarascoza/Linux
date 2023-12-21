@@ -136,8 +136,8 @@ echo -e "Serviço iniciado com sucesso!!!, continuando com o script..."
 sleep 5
 echo
 #
-echo -e "Docker instalado com sucesso!!!, pressione <Enter> para continuar com o script."
-read
+#echo -e "Docker instalado com sucesso!!!, pressione <Enter> para continuar com o script."
+#read
 sleep 5
 #
 echo -e "Iniciando o Container de teste do Docker, aguarde..."
@@ -157,8 +157,8 @@ echo -e "Container executado com sucesso!!!, continuando com o script..."
 sleep 5
 echo
 #
-echo -e "Container criados com sucesso!!!, pressione <Enter> para continuar com o script."
-read
+#echo -e "Container criados com sucesso!!!, pressione <Enter> para continuar com o script."
+#read
 sleep 5
 #
 echo -e "Instalando o Portainer, aguarde..."
